@@ -9,10 +9,23 @@ with the focus of using the UI schemes of the first two projects and using the p
 The whole project targets an Arduino Nano and therefore almost all used Libraries where optimized for space and sometimes as well performance.
 
 ## Profiles
-As mentiened before this projects uses the Controleo Profile Management but with a reduced Token set (see: src/read_profiles.cpp or include/read_profiles.hpp). A good overview for all tokens(also non supported ones) with explanation can be found [here](https://www.whizoo.com/profiles).
+As mentiened before this projects uses the Controleo Profile Management but with a reduced Token set (see: src/read_profiles.cpp or include/read_profiles.hpp).
+A good overview for all tokens(also non supported ones) with explanation can be found [here](https://www.whizoo.com/profiles).
 
 ## Hardware
-For convenience a custom PCB was created using [KiCad](https://www.kicad.org/) but is not mandatory. Please note that I am no professional (resistors & transistor where arbitrarily chosen by own availability) so any use of the PCB at your own risk!
+- Arduino Nano
+- 1.8'' Color TFT display (ST7735R) as from Adafruit: https://www.adafruit.com/product/358 (can be replaced with serial UI only)
+- Rotary Encoder (can be replaced with serial UI only)
+- Buzzer (optional)
+- Servo (optional)
+- SSR or something to control the oven
+- oven to be controlled
+- cooling fan (optional)
+- convection fan (optional)
+
+For convenience a custom PCB was created using [KiCad](https://www.kicad.org/) but is not mandatory.
+Please note that I am no professional (resistors & transistor where arbitrarily chosen by own availability) so any use of the PCB at your own risk!
+I also designed some 3D Models using [FreeCAD](https://www.freecadweb.org/) for mounting the hardware.
 
 ## Building
 Clone the repository with `git clone --recursive` as submodules are used.
