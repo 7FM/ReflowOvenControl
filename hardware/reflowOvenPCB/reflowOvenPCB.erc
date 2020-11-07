@@ -1,0 +1,45 @@
+ERC report (09/05/2020 13:42:12, Encoding UTF8 )
+
+***** Sheet /
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(81.28 mm, 97.79 mm): Pin ~ on U1 is connected to both GND and VCC
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(74.93 mm, 116.84 mm): Pin ~ on DS1 is connected to both GND and VCC
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(80.01 mm, 73.66 mm): Pin ~ on S1 is connected to both GND and VCC
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(81.28 mm, 95.25 mm): Pin ~ on U1 is connected to both GND and Net-(P1-Pad15)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(81.28 mm, 87.63 mm): Pin ~ on U1 is connected to both GND and Net-(P1-Pad12)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(218.44 mm, 107.95 mm): Pin ~ on U3 is connected to both Net-(P2-Pad8) and Net-(P2-Pad11)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(218.44 mm, 105.41 mm): Pin ~ on U3 is connected to both Net-(P2-Pad8) and Net-(P2-Pad10)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(218.44 mm, 110.49 mm): Pin ~ on U3 is connected to both Net-(P2-Pad8) and Net-(P2-Pad12)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(218.44 mm, 102.87 mm): Pin ~ on U3 is connected to both Net-(P2-Pad8) and Net-(P2-Pad9)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(81.28 mm, 90.17 mm): Pin ~ on U1 is connected to both GND and Net-(DS1-Pad~)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(74.93 mm, 121.92 mm): Pin ~ on DS1 is connected to both GND and Net-(DS1-Pad~)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(74.93 mm, 124.46 mm): Pin ~ on DS1 is connected to both GND and Net-(DS1-Pad~)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(81.28 mm, 92.71 mm): Pin ~ on U1 is connected to both GND and Net-(DS1-Pad~)
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(170.18 mm, 78.74 mm): Pin 1 (Power input) of component #PWR015 is not driven (Net 32).
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(80.01 mm, 66.04 mm): Pin ~ on S1 is connected to both GND and Net-(P1-Pad8)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(80.01 mm, 71.12 mm): Pin ~ on S1 is connected to both GND and Net-(P1-Pad6)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(80.01 mm, 68.58 mm): Pin ~ on S1 is connected to both GND and Net-(P1-Pad7)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(74.93 mm, 132.08 mm): Pin ~ on DS1 is connected to both GND and Net-(DS1-Pad~)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(74.93 mm, 127.00 mm): Pin ~ on DS1 is connected to both GND and Net-(DS1-Pad~)
+ErrType(12): Different net assigned to a shared pin in another unit of the same component
+    @(74.93 mm, 129.54 mm): Pin ~ on DS1 is connected to both GND and Net-(DS1-Pad~)
+
+ ** ERC messages: 20  Errors 19  Warnings 1
