@@ -1,0 +1,27 @@
+[submodule "lib/menu"]
+	path = lib/menu
+	url = https://github.com/7FM/menu.git
+[submodule "lib/encoder"]
+	path = lib/encoder
+	url = https://github.com/7FM/encoder.git
+[submodule "lib/PDQ_GFX_Libs"]
+	path = lib/PDQ_GFX_Libs
+	url = https://github.com/7FM/PDQ_GFX_Libs.git
+[submodule "lib/MAX6675-library"]
+	path = lib/MAX6675-library
+	url = https://github.com/7FM/MAX6675-library.git
+[submodule "lib/SPI"]
+	path = lib/SPI
+	url = https://github.com/7FM/avr-SPI.git
+[submodule "lib/NewTone"]
+	path = lib/NewTone
+	url = https://github.com/7FM/NewTone.git
+[submodule "lib/Servo"]
+	path = lib/Servo
+	url = https://github.com/7FM/Servo.git
+[submodule "lib/FastPin"]
+	path = lib/FastPin
+	url = https://github.com/7FM/FastPin.git
+[submodule "lib/SdFat"]
+	path = lib/SdFat
+	url = https://github.com/7FM/SdFat.git
