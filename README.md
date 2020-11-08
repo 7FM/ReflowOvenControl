@@ -16,6 +16,8 @@ A good overview for all tokens(also non supported ones) with explanation can be 
 - Arduino Nano
 - 1.8'' Color TFT display (ST7735R) as from Adafruit: https://www.adafruit.com/product/358 (can be replaced with serial UI only)
 - Rotary Encoder (can be replaced with serial UI only)
+- SD Card reader
+- Thermocouple reader (MAX6675)
 - Buzzer (optional)
 - Servo (optional)
 - SSR or something to control the oven
