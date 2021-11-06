@@ -26,7 +26,7 @@ A good overview for all tokens(also non supported ones) with explanation can be 
 - convection fan (optional)
 
 For convenience a custom PCB was created using [KiCad](https://www.kicad.org/) but is not mandatory.
-Please note that I am no professional (resistors & transistor where arbitrarily chosen by own availability) so any use of the PCB at your own risk!
+Please note that I am no professional (resistors & transistor were arbitrarily chosen by own availability) so any use of the PCB at your own risk!
 I also designed some 3D Models using [FreeCAD](https://www.freecadweb.org/) for mounting the hardware.
 
 ## Building
