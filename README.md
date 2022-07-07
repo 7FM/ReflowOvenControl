@@ -6,7 +6,7 @@ This repo is a combination of the following great projects:
 
 with the focus of using the UI schemes of the first two projects and using the profile management & control algorithms from [Controleo3](https://www.whizoo.com/).
 
-The whole project targets an Arduino Nano and therefore almost all used Libraries where optimized for space and sometimes as well performance.
+The whole project targets an Arduino Nano and therefore almost all used Libraries where optimized for space and sometimes for performance too.
 
 ## Profiles
 As mentiened before this projects uses the Controleo Profile Management but with a reduced Token set (see: src/read_profiles.cpp or include/read_profiles.hpp).
@@ -35,7 +35,7 @@ If already cloned, the submodules can also be downloaded afterwards using: `git 
 For compiling simply use [PlatformIO](https://platformio.org/).
 
 ## Configuration
-Features, Pins & more can be configured in `src/config.h`. Feel free to ask impact of certain options if not clear.
+Features, Pins & more can be configured in `src/config.h`. Feel free to ask if the impact of certain options is unclear.
 
 ## Useful ressources
 - https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
