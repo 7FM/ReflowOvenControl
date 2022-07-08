@@ -63,7 +63,7 @@ void initWatchdogAbuse() {
     __asm__ __volatile__("wdr");
     // We need to clear WDRF before we can clear WDE
     MCUSR &= ~_BV(WDRF);
-    // Start timed equence
+    // Start timed sequence
     WDTCSR = _BV(WDCE) | _BV(WDE);
     // Overwrite bits with the wanted configuration
     // Set new prescaler(time-out) and enable interrupt mode
